@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Python
-- 🤖 Interested in ML & AI
+- 🤖 Interested in Data Science
 - 💬 Ask me about Coding
 - 📫 How to reach me: faiq.imran000@gmail.com
 
